@@ -66,7 +66,7 @@ Health System is a holistic healthcare and safety platform designed to connect i
     - Sends reminders to users for taking medications, ensuring adherence to prescribed treatment plans.
 
 ## Technologies and Stack
-- roles: UI/UX, developer, marketer, Data scientist, documentation, Tester, and other all people who have to technical background and some skills..
+- roles: all people who have to technical background and some skills..
 - Frontend: React (JavaScript, HTML, CSS) others more
 - Backend: Node.js (Express framework), python
 - Database: MongoDB other according to requirements
@@ -74,6 +74,46 @@ Health System is a holistic healthcare and safety platform designed to connect i
 - Security: User authentication, data encryption, privacy, unique ID
 
 ## Collaboration and Contact
+Potential Contributors to Health System Project:
+
+1. **Developers:**
+   - Frontend Developers
+   - Backend Developers
+   - Full-Stack Developers
+
+2. **UX/UI Designers:**
+
+3. **Mobile App Developers:**
+    - Flutter (recommended)   
+    - iOS Developers
+    - Android Developers
+   
+
+4. **Data Scientists:**
+
+5. **Medical Professionals:**
+
+6. **Security Experts:**
+
+7. **Content Creators:**
+
+8. **QA/Testers:**
+
+9. **Project Managers:**
+
+10. **Marketing and Communication Specialists:**
+
+11. **Data Analysts:**
+
+12. **Ethical Hackers:**
+
+13. **Technical Writers:**
+
+14. **Accessibility Experts:**
+
+15. **Community Managers:**
+
+Please note that this project is open source till now, and currently, no stipends are provided to contributors. However, in the event that funds are secured for the project, stipends may be offered. We highly value all contributors' efforts and dedication. Certificates and recommendations will be provided based on each contributor's role and contributions, recognizing their valuable input and commitment to the project's development.
 
 If you're interested in collaborating on this innovative project or have suggestions to enhance its capabilities, please reach out:
 
