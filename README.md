@@ -1,6 +1,7 @@
+
 <div style="display: flex; flex-direction: row; align-items: center;">
-  <img src="https://github.com/kirankuyate2157/Health_Station/assets/84271800/c57370b4-684c-428b-9e5a-ad8f5eb098a0" alt="Health System Logo" width="100" height="100">
-  <h1 style="margin-left: 10px;">Health Station: A Comprehensive Health Platform</h1>
+  <img src="https://github.com/kirankuyate2157/Health_Station/assets/84271800/c57370b4-684c-428b-9e5a-ad8f5eb098a0" alt="Health station Logo" width="100" height="100">
+  <h1 style="margin-left: 10px;">Health System: A Comprehensive Healthcare and Safety Platform</h1>
 </div>
 
 
