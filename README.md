@@ -63,11 +63,11 @@ Health System is a holistic healthcare and safety platform designed to connect i
     - Sends reminders to users for taking medications, ensuring adherence to prescribed treatment plans.
 
 ## Technologies and Stack
-
+- roles: UI/UX, developer, marketer, Data scientist, documentation, Tester, and other all people who have to technical background and some skills..
 - Frontend: React (JavaScript, HTML, CSS) others more
 - Backend: Node.js (Express framework), python
 - Database: MongoDB other according to requirements
-- Communication: SMS gateway, Email services,broadcasting,threads
+- Communication: SMS gateway, Email services, broadcasting, threads
 - Security: User authentication, data encryption, privacy, unique ID
 
 ## Collaboration and Contact
